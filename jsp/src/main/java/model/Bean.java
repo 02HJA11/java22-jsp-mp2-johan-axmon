@@ -28,7 +28,7 @@ public class Bean {
 		if (userName.equals("Bob") && userPassword.equals("hello123")) {
 			 return true;
 
-		} else if (userName.equals("Ida") && userPassword.equals("hello321")) {
+		} else if (userName.equals("Johan") && userPassword.equals("hello321")) {
 			return true;
 		} else {
 			return false;
